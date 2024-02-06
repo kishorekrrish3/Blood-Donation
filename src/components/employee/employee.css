@@ -1,0 +1,19 @@
+.employee-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.employee-title {
+    margin-top: 8rem;
+    font-weight: 700;
+}
+
+.employee-buttons {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}

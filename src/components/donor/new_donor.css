@@ -1,0 +1,37 @@
+.new-donor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.new-donor-title {
+    margin-top: 6rem;
+    font-weight: 700;
+}
+
+.new-donor-form {
+    margin-top: 16px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    background-color: rgb(255, 251, 218);
+    flex-direction: column;
+    width: 560px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75rem;
+    margin-bottom: 6rem;
+}
+
+.form-control,
+.form-label {
+    width: 400px;
+    font-weight: 500;
+}
+
+.btn {
+    margin-top: 24px;
+    width: 400px;
+}

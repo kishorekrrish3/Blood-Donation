@@ -1,0 +1,23 @@
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.profile-buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-title {
+    margin-top: 12rem;
+}
+
+.profile-buttons {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}

@@ -1,0 +1,25 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.home-title {
+    margin-top: 8rem;
+    font-weight: 700;
+}
+
+.home-subtitle {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.home-employee-btn {
+    width: 160px;
+    margin-top: 16px;
+    padding: 8px 12px;
+    font-weight: 500;
+}

@@ -1,0 +1,19 @@
+.donor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.donor-title {
+    margin-top: 8rem;
+    font-weight: 700;
+}
+
+.btn {
+    margin-bottom: -12px;
+    width: 220px;
+    padding: 8px 12px;
+    font-weight: 500;
+}
